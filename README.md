@@ -89,6 +89,8 @@ formato_saida_pil = 'JPEG'
 qualidade_jpg = 85  # Ajuste de 0 a 100 (mais alto = melhor qualidade, maior tamanho)
 # --------------------
 
+...
+
 ## 🧑‍💻 Autor
 
 * **GitHub:** [@molz3ra](https://github.com/molz3ra)
