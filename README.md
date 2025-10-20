@@ -100,6 +100,3 @@ qualidade_jpg = 85  # Ajuste de 0 a 100 (mais alto = melhor qualidade, maior tam
 ## 📄 Licença
 
 Este projeto é distribuído sob a Licença MIT. Sinta-se à vontade para usá-lo e modificá-lo como desejar.
-
-```
-```
