@@ -1,8 +1,3 @@
-Combinado. Substituí a seção "Autor" pela sua, com os links corretos.
-
-Aqui está o código Markdown final para o seu `README.md`.
-
-````markdown
 # 🖼️ Conversor de Formato de Imagem
 
 Um script Python simples e eficiente para converter imagens em lote de formatos como `.png` e `.webp` para `.jpg`, otimizando o espaço de armazenamento e garantindo compatibilidade.
