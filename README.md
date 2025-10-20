@@ -1,3 +1,8 @@
+Combinado. Substituí a seção "Autor" pela sua, com os links corretos.
+
+Aqui está o código Markdown final para o seu `README.md`.
+
+````markdown
 # 🖼️ Conversor de Formato de Imagem
 
 Um script Python simples e eficiente para converter imagens em lote de formatos como `.png` e `.webp` para `.jpg`, otimizando o espaço de armazenamento e garantindo compatibilidade.
@@ -88,10 +93,18 @@ formato_saida_ext = '.jpg'
 formato_saida_pil = 'JPEG'
 qualidade_jpg = 85  # Ajuste de 0 a 100 (mais alto = melhor qualidade, maior tamanho)
 # --------------------
+````
 
-...
+  * `qualidade_jpg`: Um número de `0` a `100`. Um valor menor (ex: `75`) economiza mais espaço, enquanto um valor maior (ex: `95`) mantém mais qualidade. O padrão `85` é um bom equilíbrio.
 
 ## 🧑‍💻 Autor
 
-* **GitHub:** [@molz3ra](https://github.com/molz3ra)
-* **LinkedIn:** [linkedin.com/in/mol035](https://www.linkedin.com/in/mol035)
+  * **GitHub:** [@molz3ra](https://github.com/molz3ra)
+  * **LinkedIn:** [linkedin.com/in/mol035](https://www.linkedin.com/in/mol035)
+
+## 📄 Licença
+
+Este projeto é distribuído sob a Licença MIT. Sinta-se à vontade para usá-lo e modificá-lo como desejar.
+
+```
+```
